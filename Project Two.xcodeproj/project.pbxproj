@@ -15,6 +15,7 @@
 		4FC75F0925E83C3200470913 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FC75F0725E83C3200470913 /* LaunchScreen.storyboard */; };
 		4FC75F1425E83C3200470913 /* Project_TwoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC75F1325E83C3200470913 /* Project_TwoTests.swift */; };
 		4FC75F1F25E83C3200470913 /* Project_TwoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC75F1E25E83C3200470913 /* Project_TwoUITests.swift */; };
+		4FC75F3025E83E2C00470913 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC75F2F25E83E2C00470913 /* ViewControllerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4FC75F1A25E83C3200470913 /* Project TwoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Project TwoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FC75F1E25E83C3200470913 /* Project_TwoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_TwoUITests.swift; sourceTree = "<group>"; };
 		4FC75F2025E83C3200470913 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FC75F2F25E83E2C00470913 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4FC75EFC25E83C3000470913 /* AppDelegate.swift */,
 				4FC75EFE25E83C3000470913 /* SceneDelegate.swift */,
 				4FC75F0025E83C3000470913 /* ViewController.swift */,
+				4FC75F2F25E83E2C00470913 /* ViewControllerTwo.swift */,
 				4FC75F0225E83C3000470913 /* Main.storyboard */,
 				4FC75F0525E83C3200470913 /* Assets.xcassets */,
 				4FC75F0725E83C3200470913 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				4FC75F0125E83C3000470913 /* ViewController.swift in Sources */,
 				4FC75EFD25E83C3000470913 /* AppDelegate.swift in Sources */,
 				4FC75EFF25E83C3000470913 /* SceneDelegate.swift in Sources */,
+				4FC75F3025E83E2C00470913 /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
