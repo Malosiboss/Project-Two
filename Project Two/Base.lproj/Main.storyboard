@@ -45,7 +45,6 @@
                     <navigationItem key="navigationItem" id="PkW-ZV-PIp"/>
                     <connections>
                         <outlet property="setLabel" destination="w4i-oU-R71" id="8gF-wc-uvR"/>
-                        <outlet property="setText" destination="qdV-P3-Olh" id="niP-5H-hQX"/>
                         <outlet property="textField" destination="qdV-P3-Olh" id="Lg0-pa-da8"/>
                     </connections>
                 </viewController>
