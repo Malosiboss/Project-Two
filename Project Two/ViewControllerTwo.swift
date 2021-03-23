@@ -22,9 +22,9 @@ class ViewControllerTwo: UIViewController {
 
     @IBAction func buttonPressed(_ sender: Any)
     {
-        var convertedNumber = Int(textField.text!)!
-        convertedNumber = (convertedNumber - 32) / Int(1.8)
-        setLabel.text = "\(convertedNumber)"
+        let convertedNumber = Int(textField.text!)!
+        let answer = (convertedNumber - 32) * 5/9
+        setLabel.text = "\(answer)"
         
             
             

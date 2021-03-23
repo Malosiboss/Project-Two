@@ -45,9 +45,9 @@ class ViewController: UIViewController {
         
         self.majorMajor.text = "SCFS Program"
         
-        self.mySpring.text = "My Spring 2021 Classes Are"
+        self.mySpring.text = "My Spring 2021 Classes Are:"
         
-        self.textBox.text = "Is overwelhming with seven classes, but I am determind to graduate this year"
+        self.textBox.text = "A overwelhming with seven classes, but I am determind to graduate this year"
         
     }
 
