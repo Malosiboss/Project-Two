@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4FABE716260B1C3900612EFF /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FABE715260B1C3900612EFF /* ViewControllerThree.swift */; };
 		4FC75EFD25E83C3000470913 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC75EFC25E83C3000470913 /* AppDelegate.swift */; };
 		4FC75EFF25E83C3000470913 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC75EFE25E83C3000470913 /* SceneDelegate.swift */; };
 		4FC75F0125E83C3000470913 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC75F0025E83C3000470913 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4FABE715260B1C3900612EFF /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 		4FC75EF925E83C3000470913 /* Project Two.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project Two.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FC75EFC25E83C3000470913 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4FC75EFE25E83C3000470913 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				4FC75EFE25E83C3000470913 /* SceneDelegate.swift */,
 				4FC75F0025E83C3000470913 /* ViewController.swift */,
 				4FC75F2F25E83E2C00470913 /* ViewControllerTwo.swift */,
+				4FABE715260B1C3900612EFF /* ViewControllerThree.swift */,
 				4FC75F0225E83C3000470913 /* Main.storyboard */,
 				4FC75F0525E83C3200470913 /* Assets.xcassets */,
 				4FC75F0725E83C3200470913 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FABE716260B1C3900612EFF /* ViewControllerThree.swift in Sources */,
 				4FC75F0125E83C3000470913 /* ViewController.swift in Sources */,
 				4FC75EFD25E83C3000470913 /* AppDelegate.swift in Sources */,
 				4FC75EFF25E83C3000470913 /* SceneDelegate.swift in Sources */,
